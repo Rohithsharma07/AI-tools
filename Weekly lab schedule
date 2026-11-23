@@ -1,6 +1,3 @@
-Act as a computer lab in-charge. Create a weekly computer lab schedule for 3 batches that share one computer lab.
-
-Requirements:
 
 - There is only one computer lab.
 - Three batches (Batch A, Batch B, and Batch C) must share the lab.
