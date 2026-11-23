@@ -8,6 +8,4 @@ Requirements:
 - Avoid overlapping timings between batches.
 - Distribute lab sessions fairly among all three batches.
 - Include the day, batch name, time slot, and lab session.
-- Make the timetable clear, organized, and easy to understand.
-
-Present the final schedule in a neat table format.
+- Make the timetable clear, organized, and easy to understand
